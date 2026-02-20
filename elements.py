@@ -1,3 +1,8 @@
+# Copyright (C) 2026 Berkem Toprak Elmacı
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License.
+
 H = """Hydrogen
     Atomic Number: 1
     Description: Hydrogen is the lightest and most abundant element in the universe. It is a non-metal and forms diatomic molecules (H₂) under normal conditions. It plays a critical role in the formation of stars and is used in various industrial applications, including fuel cells.
@@ -3185,3 +3190,4 @@ Og = """Oganesson
     Crystal Structure: Face-centered cubic
     Speed of Sound: Not well-characterized
 """
+
